@@ -1,0 +1,7 @@
+<svg>
+  <rect id="background"/>
+  <text class="label" y="10%" text-length="7" fill="black" font-size="32">Label 1</text>
+  <text class="value" y="20%" text-length="7" fill="grey" font-size="20">Value 1</text>
+  <text class="label" y="50%" text-length="7" fill="black" font-size="32">Label 2</text>
+  <text class="value" y="60%" text-length="7" fill="grey" font-size="20">Value 2</text>
+</svg>
